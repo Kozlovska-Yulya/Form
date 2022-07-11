@@ -17,7 +17,7 @@ input[type='checkbox'] {
   left: 0;
 }
 .checkbox {
-  display: flex;
+  display: block;
   padding-left: 35px;
   margin: 16px;
   font-size: 24px;
